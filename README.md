@@ -9,7 +9,7 @@ yu-heajin-home/
 ├── index.html      ← 페이지 내용 (글자 수정은 여기서)
 ├── css/style.css   ← 색상·디자인
 ├── js/main.js      ← 타이핑 효과, 메뉴, 애니메이션
-├── images/         ← 사이트에 쓰는 사진 (profile.png, preview.png)
+├── images/         ← 사진 (profile.png 프로필, award.png 시상식, preview.png 카톡 미리보기)
 ├── netlify.toml    ← Netlify 배포·보안 설정
 ├── .gitignore      ← GitHub에 올리지 않을 파일 목록
 └── README.md       ← 이 설명서
